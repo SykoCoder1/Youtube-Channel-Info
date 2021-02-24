@@ -11,7 +11,7 @@
 
 ```
 const SykoCoder = require("youtube-channel-statistics");
-SykoCoder.getYoutubeChannelInfo("UCm50Epeg8BfEV7bXMbo1-3A").then((response) => {
+SykoCoder.getYoutubeChannelInfo("ChannelID").then((response) => {
     console.log(response)
     console.log(response.)
  })
