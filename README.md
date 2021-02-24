@@ -2,7 +2,9 @@
 **Youtube Channel Statistics | SykoCoder**
 
 **Site:** https://sykocoder.tk
+
 **NPM:** npmjs.com/package/youtube-channel-statistics
+
 **Bug Report:** SykoCoder#4105
 
 ## Example
