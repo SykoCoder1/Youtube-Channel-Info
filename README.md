@@ -3,7 +3,7 @@
 
 **Site:** https://sykocoder.tk
 
-**NPM:** npmjs.com/package/youtube-channel-statistics
+**NPM:** https://npmjs.com/package/youtube-channel-statistics
 
 **Bug Report:** SykoCoder#4105
 
